@@ -13,7 +13,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: Crazy Marvin
     url: https://crazymarvin.com
-  - name: Crazy Marvin
+  - name: sneak.page
     url: https://sneak.page
 
 status-website:
