@@ -76,9 +76,9 @@
     "url": "https://crazymarvin.com",
     "icon": "https://favicons.githubusercontent.com/crazymarvin.com",
     "slug": "crazy-marvin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.82%",
@@ -88,6 +88,7 @@
     "timeMonth": 248,
     "timeYear": 237,
     "dailyMinutesDown": {
+      "2021-11-09": 0,
       "2021-10-14": 21,
       "2021-10-07": 35,
       "2021-10-05": 79
