@@ -109,9 +109,9 @@
     "url": "https://sneak.page",
     "icon": "https://favicons.githubusercontent.com/sneak.page",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -120,6 +120,8 @@
     "timeWeek": 183,
     "timeMonth": 173,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   }
 ]
