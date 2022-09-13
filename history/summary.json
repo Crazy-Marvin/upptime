@@ -45,9 +45,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -57,6 +57,7 @@
     "timeMonth": 321,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2022-09-13": 0,
       "2022-07-08": 536,
       "2022-06-15": 20,
       "2021-11-29": 55
