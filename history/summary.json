@@ -111,9 +111,9 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 237,
     "timeDay": 8708,
@@ -121,7 +121,6 @@
     "timeMonth": 687,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2023-01-19": 3,
       "2022-06-30": 50,
       "2022-06-21": 20,
       "2022-04-11": 43
