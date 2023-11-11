@@ -114,10 +114,10 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "93.37%",
-    "uptimeWeek": "94.02%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "93.36%",
+    "uptimeWeek": "94.01%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "99.58%",
     "time": 193,
@@ -156,7 +156,7 @@
       "2023-10-14": 39,
       "2023-10-13": 59,
       "2023-10-12": 119,
-      "2023-10-11": 41
+      "2023-10-11": 16
     }
   }
 ]
