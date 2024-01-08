@@ -86,7 +86,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazymarvin.com.ico",
     "slug": "crazy-marvin",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
@@ -117,16 +117,16 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "92.84%",
+    "uptimeDay": "92.83%",
     "uptimeWeek": "94.48%",
-    "uptimeMonth": "94.98%",
-    "uptimeYear": "99.58%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "99.59%",
     "time": 179,
-    "timeDay": 134,
+    "timeDay": 131,
     "timeWeek": 140,
-    "timeMonth": 171,
+    "timeMonth": 172,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2024-01-08": 63,
@@ -159,7 +159,7 @@
       "2023-12-12": 85,
       "2023-12-11": 50,
       "2023-12-10": 38,
-      "2023-12-08": 60
+      "2023-12-08": 40
     }
   }
 ]
