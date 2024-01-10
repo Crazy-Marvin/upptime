@@ -45,17 +45,17 @@
     "slug": "hacker-news",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.93%",
     "time": 335,
     "timeDay": 426,
     "timeWeek": 294,
     "timeMonth": 514,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-01-10": 0,
+      "2024-01-10": 17,
       "2023-12-15": 26,
       "2023-12-12": 219,
       "2023-09-13": 16,
@@ -118,11 +118,11 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "95.13%",
+    "uptimeDay": "95.12%",
     "uptimeWeek": "95.33%",
-    "uptimeMonth": "94.97%",
+    "uptimeMonth": "95.01%",
     "uptimeYear": "99.58%",
     "time": 178,
     "timeDay": 129,
@@ -160,7 +160,7 @@
       "2023-12-14": 83,
       "2023-12-13": 78,
       "2023-12-12": 85,
-      "2023-12-11": 33
+      "2023-12-11": 16
     }
   }
 ]
