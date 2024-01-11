@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 82,
-    "timeWeek": 78,
-    "timeMonth": 80,
-    "timeYear": 105,
+    "timeDay": 67,
+    "timeWeek": 76,
+    "timeMonth": 77,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2023-08-03": 10,
       "2023-08-02": 6
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 229,
-    "timeWeek": 237,
-    "timeMonth": 215,
-    "timeYear": 198,
+    "timeDay": 196,
+    "timeWeek": 240,
+    "timeMonth": 214,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.92%",
-    "time": 336,
-    "timeDay": 384,
-    "timeWeek": 323,
+    "time": 335,
+    "timeDay": 335,
+    "timeWeek": 324,
     "timeMonth": 500,
     "timeYear": 324,
     "dailyMinutesDown": {
@@ -92,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.64%",
-    "time": 410,
-    "timeDay": 474,
-    "timeWeek": 299,
-    "timeMonth": 599,
+    "time": 408,
+    "timeDay": 320,
+    "timeWeek": 321,
+    "timeMonth": 602,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2023-12-27": 25,
@@ -120,17 +120,17 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "92.13%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "95.00%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "95.00%",
+    "uptimeMonth": "94.97%",
     "uptimeYear": "99.58%",
     "time": 178,
-    "timeDay": 123,
-    "timeWeek": 138,
+    "timeDay": 117,
+    "timeWeek": 136,
     "timeMonth": 171,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-01-10": 102,
+      "2024-01-10": 92,
       "2024-01-09": 28,
       "2024-01-08": 96,
       "2024-01-07": 73,
@@ -159,7 +159,7 @@
       "2023-12-15": 70,
       "2023-12-14": 83,
       "2023-12-13": 78,
-      "2023-12-12": 62
+      "2023-12-12": 85
     }
   }
 ]
