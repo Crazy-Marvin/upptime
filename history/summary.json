@@ -85,9 +85,9 @@
     "slug": "crazy-marvin",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 347,
     "timeDay": 305,
@@ -95,7 +95,6 @@
     "timeMonth": 343,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2024-08-18": 8,
       "2024-02-14": 212,
       "2023-12-27": 25,
       "2023-12-25": 146,
@@ -111,15 +110,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.88%",
+    "uptimeDay": "97.86%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "99.60%",
     "time": 172,
     "timeDay": 330,
-    "timeWeek": 212,
+    "timeWeek": 213,
     "timeMonth": 253,
     "timeYear": 172,
     "dailyMinutesDown": {
@@ -165,7 +164,7 @@
       "2024-07-02": 119,
       "2024-07-01": 50,
       "2024-06-30": 77,
-      "2024-06-29": 104
+      "2024-06-29": 83
     }
   }
 ]
