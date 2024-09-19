@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 83,
-    "timeWeek": 90,
-    "timeMonth": 96,
+    "timeDay": 88,
+    "timeWeek": 91,
+    "timeMonth": 95,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2024-05-01": 29
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 223,
-    "timeWeek": 149,
-    "timeMonth": 230,
-    "timeYear": 217,
+    "timeDay": 199,
+    "timeWeek": 164,
+    "timeMonth": 232,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 314,
-    "timeDay": 398,
-    "timeWeek": 219,
-    "timeMonth": 308,
+    "timeDay": 305,
+    "timeWeek": 239,
+    "timeMonth": 313,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2024-01-10": 87,
@@ -89,9 +89,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.74%",
     "time": 346,
-    "timeDay": 364,
-    "timeWeek": 264,
-    "timeMonth": 300,
+    "timeDay": 322,
+    "timeWeek": 289,
+    "timeMonth": 304,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2024-08-29": 34,
@@ -110,15 +110,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.83%",
+    "uptimeDay": "96.82%",
     "uptimeWeek": "97.18%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "99.57%",
     "time": 174,
-    "timeDay": 207,
-    "timeWeek": 209,
+    "timeDay": 214,
+    "timeWeek": 208,
     "timeMonth": 208,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -165,8 +165,7 @@
       "2024-08-04": 36,
       "2024-08-02": 39,
       "2024-07-31": 51,
-      "2024-07-30": 41,
-      "2024-07-29": 23
+      "2024-07-30": 41
     }
   }
 ]
