@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 71,
-    "timeWeek": 110,
-    "timeMonth": 92,
+    "timeDay": 78,
+    "timeWeek": 109,
+    "timeMonth": 93,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2024-05-01": 29
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 149,
-    "timeWeek": 189,
-    "timeMonth": 246,
-    "timeYear": 221,
+    "time": 215,
+    "timeDay": 826,
+    "timeWeek": 301,
+    "timeMonth": 262,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 317,
-    "timeDay": 389,
-    "timeWeek": 298,
-    "timeMonth": 312,
-    "timeYear": 321,
+    "timeDay": 477,
+    "timeWeek": 352,
+    "timeMonth": 314,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2024-01-10": 87,
       "2023-12-15": 26,
@@ -90,8 +90,8 @@
     "uptimeYear": "99.70%",
     "time": 348,
     "timeDay": 394,
-    "timeWeek": 302,
-    "timeMonth": 326,
+    "timeWeek": 338,
+    "timeMonth": 327,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2024-10-01": 207,
@@ -111,18 +111,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "83.15%",
-    "uptimeWeek": "85.64%",
-    "uptimeMonth": "93.93%",
+    "uptime": "99.83%",
+    "uptimeDay": "85.32%",
+    "uptimeWeek": "85.75%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.49%",
     "time": 174,
-    "timeDay": 191,
-    "timeWeek": 177,
+    "timeDay": 201,
+    "timeWeek": 175,
     "timeMonth": 182,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-10-21": 222,
+      "2024-10-21": 211,
       "2024-10-20": 355,
       "2024-10-19": 156,
       "2024-10-18": 377,
@@ -143,7 +143,8 @@
       "2024-09-27": 40,
       "2024-09-26": 87,
       "2024-09-25": 109,
-      "2024-09-24": 57
+      "2024-09-24": 89,
+      "2024-09-23": 6
     }
   }
 ]
