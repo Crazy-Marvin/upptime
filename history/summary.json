@@ -13,7 +13,7 @@
     "time": 102,
     "timeDay": 92,
     "timeWeek": 88,
-    "timeMonth": 108,
+    "timeMonth": 107,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2024-05-01": 29
@@ -33,7 +33,7 @@
     "time": 223,
     "timeDay": 86,
     "timeWeek": 315,
-    "timeMonth": 278,
+    "timeMonth": 274,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 317,
     "timeDay": 107,
     "timeWeek": 327,
-    "timeMonth": 284,
+    "timeMonth": 285,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2024-01-10": 87
@@ -89,7 +89,7 @@
     "time": 344,
     "timeDay": 140,
     "timeWeek": 311,
-    "timeMonth": 292,
+    "timeMonth": 293,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2024-11-17": 275,
@@ -105,17 +105,17 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "86.89%",
-    "uptimeWeek": "89.92%",
-    "uptimeMonth": "94.50%",
+    "uptimeDay": "87.48%",
+    "uptimeWeek": "90.01%",
+    "uptimeMonth": "94.47%",
     "uptimeYear": "99.54%",
     "time": 177,
     "timeDay": 170,
-    "timeWeek": 171,
+    "timeWeek": 172,
     "timeMonth": 174,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-12-30": 189,
+      "2024-12-30": 180,
       "2024-12-29": 48,
       "2024-12-28": 139,
       "2024-12-27": 156,
@@ -133,7 +133,7 @@
       "2024-12-15": 55,
       "2024-12-14": 44,
       "2024-12-13": 158,
-      "2024-12-12": 3
+      "2024-12-12": 23
     }
   }
 ]
