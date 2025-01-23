@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 103,
-    "timeDay": 0,
-    "timeWeek": 159,
-    "timeMonth": 110,
-    "timeYear": 103,
+    "time": 104,
+    "timeDay": 803,
+    "timeWeek": 246,
+    "timeMonth": 133,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 29
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 0,
-    "timeWeek": 185,
-    "timeMonth": 236,
+    "time": 224,
+    "timeDay": 197,
+    "timeWeek": 177,
+    "timeMonth": 238,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 0,
-    "timeWeek": 363,
-    "timeMonth": 300,
+    "time": 319,
+    "timeDay": 370,
+    "timeWeek": 362,
+    "timeMonth": 309,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 344,
-    "timeDay": 0,
-    "timeWeek": 366,
-    "timeMonth": 311,
-    "timeYear": 326,
+    "timeDay": 305,
+    "timeWeek": 354,
+    "timeMonth": 310,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2024-11-17": 275,
       "2024-10-01": 207,
@@ -101,15 +101,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "91.61%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "94.60%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "92.25%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "99.55%",
     "time": 176,
-    "timeDay": 179,
-    "timeWeek": 190,
+    "timeDay": 177,
+    "timeWeek": 191,
     "timeMonth": 175,
     "timeYear": 177,
     "dailyMinutesDown": {
@@ -132,8 +132,7 @@
       "2025-01-07": 171,
       "2025-01-06": 31,
       "2025-01-05": 186,
-      "2025-01-04": 86,
-      "2025-01-03": 16
+      "2025-01-04": 86
     }
   }
 ]
