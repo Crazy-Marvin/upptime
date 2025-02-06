@@ -103,17 +103,17 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "94.79%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "94.77%",
+    "uptimeYear": "99.56%",
     "time": 178,
     "timeDay": 162,
     "timeWeek": 192,
     "timeMonth": 186,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-02-05": 81,
+      "2025-02-05": 73,
       "2025-02-04": 49,
       "2025-02-03": 42,
       "2025-02-01": 77,
@@ -136,7 +136,7 @@
       "2025-01-15": 80,
       "2025-01-14": 249,
       "2025-01-13": 55,
-      "2025-01-12": 76
+      "2025-01-12": 93
     }
   }
 ]
