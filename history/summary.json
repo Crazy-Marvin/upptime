@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 88,
-    "timeWeek": 94,
-    "timeMonth": 295,
+    "timeDay": 69,
+    "timeWeek": 90,
+    "timeMonth": 294,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2024-05-01": 29
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 113,
-    "timeWeek": 111,
-    "timeMonth": 137,
-    "timeYear": 223,
+    "timeDay": 43,
+    "timeWeek": 81,
+    "timeMonth": 131,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 383,
-    "timeWeek": 318,
-    "timeMonth": 280,
+    "time": 320,
+    "timeDay": 426,
+    "timeWeek": 326,
+    "timeMonth": 283,
     "timeYear": 306,
     "dailyMinutesDown": {}
   },
@@ -84,10 +84,10 @@
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.89%",
-    "time": 343,
-    "timeDay": 419,
-    "timeWeek": 303,
-    "timeMonth": 293,
+    "time": 344,
+    "timeDay": 424,
+    "timeWeek": 322,
+    "timeMonth": 297,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2025-03-01": 80,
@@ -101,16 +101,16 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "94.95%",
+    "uptimeDay": "94.94%",
     "uptimeWeek": "94.21%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "99.50%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "99.51%",
     "time": 181,
-    "timeDay": 172,
-    "timeWeek": 184,
-    "timeMonth": 189,
+    "timeDay": 166,
+    "timeWeek": 183,
+    "timeMonth": 188,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2025-03-03": 73,
@@ -137,7 +137,7 @@
       "2025-02-10": 119,
       "2025-02-09": 163,
       "2025-02-08": 53,
-      "2025-02-07": 89
+      "2025-02-07": 65
     }
   }
 ]
