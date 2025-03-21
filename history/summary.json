@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 114,
-    "timeDay": 97,
-    "timeWeek": 120,
-    "timeMonth": 111,
-    "timeYear": 124,
+    "time": 115,
+    "timeDay": 273,
+    "timeWeek": 146,
+    "timeMonth": 118,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2024-05-01": 29
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
+    "time": 221,
     "timeDay": 115,
-    "timeWeek": 210,
-    "timeMonth": 163,
+    "timeWeek": 214,
+    "timeMonth": 166,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeYear": "100.00%",
     "time": 300,
     "timeDay": 150,
-    "timeWeek": 280,
-    "timeMonth": 305,
-    "timeYear": 307,
+    "timeWeek": 287,
+    "timeMonth": 297,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   },
   {
@@ -85,10 +85,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.89%",
     "time": 343,
-    "timeDay": 196,
-    "timeWeek": 274,
-    "timeMonth": 303,
-    "timeYear": 328,
+    "timeDay": 199,
+    "timeWeek": 280,
+    "timeMonth": 298,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2025-03-01": 80,
       "2024-11-17": 275,
@@ -103,17 +103,17 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "95.73%",
-    "uptimeYear": "99.52%",
-    "time": 183,
-    "timeDay": 321,
-    "timeWeek": 229,
-    "timeMonth": 202,
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "95.99%",
+    "uptimeYear": "99.51%",
+    "time": 184,
+    "timeDay": 329,
+    "timeWeek": 234,
+    "timeMonth": 205,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-03-20": 24,
+      "2025-03-20": 16,
       "2025-03-19": 30,
       "2025-03-18": 65,
       "2025-03-17": 37,
@@ -143,7 +143,7 @@
       "2025-02-19": 249,
       "2025-02-18": 137,
       "2025-02-17": 239,
-      "2025-02-16": 52
+      "2025-02-16": 69
     }
   }
 ]
