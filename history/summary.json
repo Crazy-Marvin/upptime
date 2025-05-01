@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 93,
-    "timeWeek": 94,
-    "timeMonth": 105,
+    "timeDay": 72,
+    "timeWeek": 89,
+    "timeMonth": 101,
     "timeYear": 123,
-    "dailyMinutesDown": {
-      "2024-05-01": 29
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 564,
-    "timeWeek": 285,
-    "timeMonth": 160,
+    "timeDay": 43,
+    "timeWeek": 261,
+    "timeMonth": 162,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 373,
-    "timeWeek": 252,
-    "timeMonth": 309,
-    "timeYear": 308,
+    "timeDay": 385,
+    "timeWeek": 287,
+    "timeMonth": 302,
+    "timeYear": 309,
     "dailyMinutesDown": {}
   },
   {
@@ -84,10 +82,10 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
-    "time": 321,
-    "timeDay": 291,
-    "timeWeek": 324,
-    "timeMonth": 322,
+    "time": 322,
+    "timeDay": 345,
+    "timeWeek": 336,
+    "timeMonth": 318,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2025-04-30": 30,
@@ -105,17 +103,17 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "87.39%",
-    "uptimeWeek": "89.77%",
-    "uptimeMonth": "94.75%",
+    "uptimeDay": "87.97%",
+    "uptimeWeek": "89.85%",
+    "uptimeMonth": "94.77%",
     "uptimeYear": "99.50%",
     "time": 192,
-    "timeDay": 248,
-    "timeWeek": 226,
+    "timeDay": 243,
+    "timeWeek": 225,
     "timeMonth": 229,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-04-30": 180,
+      "2025-04-30": 172,
       "2025-04-29": 198,
       "2025-04-28": 168,
       "2025-04-27": 30,
@@ -138,7 +136,7 @@
       "2025-03-27": 27,
       "2025-03-26": 104,
       "2025-03-25": 55,
-      "2025-03-24": 129
+      "2025-03-24": 154
     }
   }
 ]
