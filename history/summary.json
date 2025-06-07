@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 81,
+    "timeDay": 75,
     "timeWeek": 93,
     "timeMonth": 105,
     "timeYear": 123,
@@ -103,17 +103,17 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "83.70%",
-    "uptimeWeek": "88.29%",
-    "uptimeMonth": "94.05%",
+    "uptimeDay": "86.28%",
+    "uptimeWeek": "88.41%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 199,
-    "timeDay": 232,
+    "timeDay": 236,
     "timeWeek": 209,
     "timeMonth": 221,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-06-06": 212,
+      "2025-06-06": 199,
       "2025-06-05": 169,
       "2025-06-04": 146,
       "2025-06-03": 122,
@@ -129,7 +129,8 @@
       "2025-05-24": 131,
       "2025-05-23": 58,
       "2025-05-22": 88,
-      "2025-05-21": 164
+      "2025-05-21": 164,
+      "2025-05-20": 19
     }
   }
 ]
