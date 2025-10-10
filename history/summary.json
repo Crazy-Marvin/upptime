@@ -42,18 +42,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
+    "time": 313,
     "timeDay": 435,
     "timeWeek": 359,
     "timeMonth": 311,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-10": 0
+    }
   },
   {
     "name": "Test Broken Site",
@@ -107,15 +109,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "89.78%",
+    "uptimeDay": "91.82%",
     "uptimeWeek": "88.84%",
-    "uptimeMonth": "94.52%",
-    "uptimeYear": "99.54%",
+    "uptimeMonth": "94.57%",
+    "uptimeYear": "99.55%",
     "time": 202,
-    "timeDay": 195,
-    "timeWeek": 189,
+    "timeDay": 198,
+    "timeWeek": 188,
     "timeMonth": 209,
     "timeYear": 202,
     "dailyMinutesDown": {
@@ -133,7 +135,7 @@
       "2025-09-29": 143,
       "2025-09-28": 187,
       "2025-09-27": 158,
-      "2025-09-26": 109
+      "2025-09-26": 85
     }
   }
 ]
