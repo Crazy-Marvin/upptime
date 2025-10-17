@@ -107,11 +107,11 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "84.29%",
+    "uptimeDay": "84.90%",
     "uptimeWeek": "85.84%",
-    "uptimeMonth": "94.48%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "99.54%",
     "time": 202,
     "timeDay": 170,
@@ -132,7 +132,7 @@
       "2025-10-07": 158,
       "2025-10-06": 169,
       "2025-10-05": 127,
-      "2025-10-04": 32
+      "2025-10-04": 17
     }
   }
 ]
