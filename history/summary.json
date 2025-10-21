@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 71,
-    "timeWeek": 139,
-    "timeMonth": 106,
+    "timeDay": 86,
+    "timeWeek": 137,
+    "timeMonth": 103,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-08-05": 21
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 81,
-    "timeWeek": 225,
-    "timeMonth": 223,
-    "timeYear": 194,
+    "timeDay": 283,
+    "timeWeek": 183,
+    "timeMonth": 220,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 421,
-    "timeWeek": 278,
-    "timeMonth": 323,
-    "timeYear": 313,
+    "time": 313,
+    "timeDay": 106,
+    "timeWeek": 261,
+    "timeMonth": 317,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 359,
-    "timeDay": 356,
-    "timeWeek": 267,
-    "timeMonth": 308,
+    "timeDay": 149,
+    "timeWeek": 243,
+    "timeMonth": 302,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-10-02": 19,
@@ -108,18 +108,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "85.74%",
-    "uptimeWeek": "85.83%",
-    "uptimeMonth": "94.36%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.88%",
+    "uptimeDay": "88.88%",
+    "uptimeWeek": "86.28%",
+    "uptimeMonth": "94.28%",
+    "uptimeYear": "99.52%",
     "time": 202,
-    "timeDay": 176,
+    "timeDay": 180,
     "timeWeek": 197,
     "timeMonth": 194,
-    "timeYear": 202,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-10-20": 181,
+      "2025-10-20": 169,
       "2025-10-19": 236,
       "2025-10-18": 230,
       "2025-10-17": 65,
@@ -131,7 +131,7 @@
       "2025-10-11": 188,
       "2025-10-10": 113,
       "2025-10-09": 163,
-      "2025-10-08": 204
+      "2025-10-08": 254
     }
   }
 ]
