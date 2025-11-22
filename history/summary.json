@@ -106,19 +106,19 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "87.44%",
-    "uptimeWeek": "85.00%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "88.00%",
+    "uptimeWeek": "85.35%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "99.45%",
     "time": 203,
     "timeDay": 275,
     "timeWeek": 241,
     "timeMonth": 216,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-11-22": 85,
+      "2025-11-22": 77,
       "2025-11-21": 153,
       "2025-11-20": 231,
       "2025-11-19": 244,
@@ -131,7 +131,7 @@
       "2025-11-12": 231,
       "2025-11-11": 245,
       "2025-11-10": 202,
-      "2025-11-09": 119
+      "2025-11-09": 158
     }
   }
 ]
