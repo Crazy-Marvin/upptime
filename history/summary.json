@@ -4,16 +4,16 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "98.28%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 122,
-    "timeDay": 120,
-    "timeWeek": 179,
-    "timeMonth": 183,
+    "timeDay": 105,
+    "timeWeek": 173,
+    "timeMonth": 180,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-12-19": 25,
@@ -108,15 +108,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "89.99%",
-    "uptimeWeek": "88.69%",
-    "uptimeMonth": "93.92%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "89.97%",
+    "uptimeWeek": "88.87%",
+    "uptimeMonth": "93.97%",
+    "uptimeYear": "99.50%",
     "time": 208,
-    "timeDay": 188,
-    "timeWeek": 199,
+    "timeDay": 180,
+    "timeWeek": 198,
     "timeMonth": 235,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -135,7 +135,7 @@
       "2025-12-07": 171,
       "2025-12-06": 215,
       "2025-12-05": 147,
-      "2025-12-04": 208
+      "2025-12-04": 188
     }
   }
 ]
