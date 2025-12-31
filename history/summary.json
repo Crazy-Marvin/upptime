@@ -13,7 +13,7 @@
     "time": 133,
     "timeDay": 139,
     "timeWeek": 564,
-    "timeMonth": 290,
+    "timeMonth": 286,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2025-12-19": 25,
@@ -35,7 +35,7 @@
     "time": 201,
     "timeDay": 219,
     "timeWeek": 201,
-    "timeMonth": 228,
+    "timeMonth": 222,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -53,7 +53,7 @@
     "time": 307,
     "timeDay": 361,
     "timeWeek": 313,
-    "timeMonth": 252,
+    "timeMonth": 247,
     "timeYear": 305,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 355,
     "timeDay": 312,
     "timeWeek": 280,
-    "timeMonth": 290,
+    "timeMonth": 285,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2025-10-02": 19,
@@ -110,17 +110,17 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "83.36%",
-    "uptimeWeek": "87.77%",
-    "uptimeMonth": "93.85%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "84.03%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "99.48%",
     "time": 209,
-    "timeDay": 197,
+    "timeDay": 193,
     "timeWeek": 184,
-    "timeMonth": 230,
+    "timeMonth": 228,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-12-30": 240,
+      "2025-12-30": 230,
       "2025-12-29": 136,
       "2025-12-28": 210,
       "2025-12-27": 135,
@@ -136,7 +136,7 @@
       "2025-12-17": 106,
       "2025-12-16": 260,
       "2025-12-15": 185,
-      "2025-12-14": 77
+      "2025-12-14": 120
     }
   }
 ]
