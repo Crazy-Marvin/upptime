@@ -4,19 +4,18 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 148,
-    "timeDay": 350,
-    "timeWeek": 177,
-    "timeMonth": 193,
+    "timeDay": 262,
+    "timeWeek": 167,
+    "timeMonth": 190,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-02-21": 13,
       "2025-12-19": 25,
       "2025-12-14": 35,
       "2025-08-05": 21
@@ -110,11 +109,11 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "76.90%",
+    "uptimeDay": "76.89%",
     "uptimeWeek": "80.12%",
-    "uptimeMonth": "92.64%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 216,
     "timeDay": 188,
@@ -133,7 +132,7 @@
       "2026-02-13": 436,
       "2026-02-12": 265,
       "2026-02-11": 382,
-      "2026-02-10": 42
+      "2026-02-10": 21
     }
   }
 ]
