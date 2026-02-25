@@ -28,7 +28,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.81%",
+    "uptimeDay": "99.88%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -111,11 +111,11 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "74.85%",
+    "uptimeDay": "79.08%",
     "uptimeWeek": "80.30%",
-    "uptimeMonth": "92.82%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.40%",
     "time": 220,
     "timeDay": 335,
@@ -135,7 +135,7 @@
       "2026-02-16": 251,
       "2026-02-15": 240,
       "2026-02-14": 98,
-      "2026-02-13": 70
+      "2026-02-13": 54
     }
   }
 ]
