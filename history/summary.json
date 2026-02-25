@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 148,
-    "timeDay": 89,
-    "timeWeek": 166,
-    "timeMonth": 186,
-    "timeYear": 143,
+    "timeDay": 241,
+    "timeWeek": 161,
+    "timeMonth": 187,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2025-12-19": 25,
       "2025-12-14": 35,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 48,
-    "timeWeek": 104,
-    "timeMonth": 163,
+    "timeDay": 87,
+    "timeWeek": 92,
+    "timeMonth": 161,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2026-02-24": 32
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 102,
-    "timeWeek": 283,
-    "timeMonth": 274,
-    "timeYear": 305,
+    "time": 304,
+    "timeDay": 99,
+    "timeWeek": 251,
+    "timeMonth": 269,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 356,
-    "timeDay": 137,
-    "timeWeek": 296,
-    "timeMonth": 310,
-    "timeYear": 372,
+    "timeDay": 134,
+    "timeWeek": 269,
+    "timeMonth": 304,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2026-01-20": 27,
       "2025-10-02": 19,
@@ -111,15 +111,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "76.56%",
-    "uptimeWeek": "80.48%",
-    "uptimeMonth": "92.78%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "76.54%",
+    "uptimeWeek": "80.61%",
+    "uptimeMonth": "92.81%",
     "uptimeYear": "99.40%",
     "time": 220,
-    "timeDay": 209,
-    "timeWeek": 420,
+    "timeDay": 208,
+    "timeWeek": 419,
     "timeMonth": 243,
     "timeYear": 221,
     "dailyMinutesDown": {
@@ -134,8 +134,7 @@
       "2026-02-17": 223,
       "2026-02-16": 251,
       "2026-02-15": 240,
-      "2026-02-14": 98,
-      "2026-02-13": 16
+      "2026-02-14": 98
     }
   }
 ]
