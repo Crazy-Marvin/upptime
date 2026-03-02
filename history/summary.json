@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 148,
-    "timeDay": 103,
-    "timeWeek": 137,
-    "timeMonth": 199,
+    "timeDay": 91,
+    "timeWeek": 136,
+    "timeMonth": 198,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2025-12-19": 25,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 244,
+    "timeDay": 88,
     "timeWeek": 124,
-    "timeMonth": 154,
+    "timeMonth": 155,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2026-02-24": 32
@@ -52,11 +52,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 154,
-    "timeWeek": 230,
-    "timeMonth": 267,
-    "timeYear": 304,
+    "time": 304,
+    "timeDay": 101,
+    "timeWeek": 231,
+    "timeMonth": 265,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2026-02-27": 18
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 357,
-    "timeDay": 197,
-    "timeWeek": 258,
-    "timeMonth": 302,
-    "timeYear": 372,
+    "time": 356,
+    "timeDay": 131,
+    "timeWeek": 255,
+    "timeMonth": 300,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2026-01-20": 27,
       "2025-10-02": 19,
@@ -112,14 +112,14 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "82.34%",
-    "uptimeWeek": "82.14%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "82.32%",
+    "uptimeWeek": "82.13%",
+    "uptimeMonth": "92.89%",
+    "uptimeYear": "99.41%",
     "time": 220,
-    "timeDay": 188,
+    "timeDay": 185,
     "timeWeek": 205,
     "timeMonth": 249,
     "timeYear": 221,
@@ -135,7 +135,7 @@
       "2026-02-22": 304,
       "2026-02-21": 332,
       "2026-02-20": 261,
-      "2026-02-19": 197
+      "2026-02-19": 182
     }
   }
 ]
