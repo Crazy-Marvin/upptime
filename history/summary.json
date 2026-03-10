@@ -13,7 +13,7 @@
     "time": 148,
     "timeDay": 107,
     "timeWeek": 98,
-    "timeMonth": 124,
+    "timeMonth": 126,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2025-12-19": 25,
@@ -35,7 +35,7 @@
     "time": 192,
     "timeDay": 193,
     "timeWeek": 161,
-    "timeMonth": 138,
+    "timeMonth": 141,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2026-02-24": 32
@@ -55,7 +55,7 @@
     "time": 303,
     "timeDay": 410,
     "timeWeek": 303,
-    "timeMonth": 281,
+    "timeMonth": 285,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2026-02-27": 18
@@ -93,7 +93,7 @@
     "time": 356,
     "timeDay": 329,
     "timeWeek": 307,
-    "timeMonth": 300,
+    "timeMonth": 302,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2026-01-20": 27,
@@ -112,19 +112,19 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "78.05%",
-    "uptimeWeek": "80.18%",
-    "uptimeMonth": "92.36%",
+    "uptimeDay": "78.22%",
+    "uptimeWeek": "80.20%",
+    "uptimeMonth": "92.37%",
     "uptimeYear": "99.36%",
     "time": 220,
     "timeDay": 310,
     "timeWeek": 211,
-    "timeMonth": 254,
+    "timeMonth": 253,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-03-10": 319,
+      "2026-03-10": 316,
       "2026-03-09": 263,
       "2026-03-08": 164,
       "2026-03-07": 164,
