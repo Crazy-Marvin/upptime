@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 149,
-    "timeDay": 100,
-    "timeWeek": 150,
-    "timeMonth": 117,
+    "timeDay": 115,
+    "timeWeek": 146,
+    "timeMonth": 112,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2025-12-19": 25,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 86,
-    "timeWeek": 186,
-    "timeMonth": 184,
+    "timeDay": 93,
+    "timeWeek": 173,
+    "timeMonth": 181,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2026-02-24": 32
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 114,
-    "timeWeek": 322,
-    "timeMonth": 303,
-    "timeYear": 305,
+    "time": 301,
+    "timeDay": 99,
+    "timeWeek": 291,
+    "timeMonth": 297,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2026-02-27": 18
     }
@@ -90,10 +90,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 357,
-    "timeDay": 261,
-    "timeWeek": 305,
-    "timeMonth": 312,
+    "time": 356,
+    "timeDay": 139,
+    "timeWeek": 273,
+    "timeMonth": 302,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2026-01-20": 27,
@@ -111,15 +111,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "86.75%",
-    "uptimeWeek": "81.75%",
-    "uptimeMonth": "93.17%",
+    "uptimeDay": "86.72%",
+    "uptimeWeek": "82.08%",
+    "uptimeMonth": "93.21%",
     "uptimeYear": "99.43%",
     "time": 220,
-    "timeDay": 203,
-    "timeWeek": 194,
+    "timeDay": 205,
+    "timeWeek": 196,
     "timeMonth": 198,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -134,7 +134,7 @@
       "2026-03-18": 330,
       "2026-03-17": 348,
       "2026-03-16": 144,
-      "2026-03-15": 77
+      "2026-03-15": 59
     }
   }
 ]
