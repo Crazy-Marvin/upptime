@@ -5,22 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 147,
     "timeWeek": 113,
     "timeMonth": 115,
     "timeYear": 144,
-    "dailyMinutesDown": {
-      "2026-04-12": 18,
-      "2025-12-19": 25,
-      "2025-12-14": 35,
-      "2025-08-05": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -32,15 +27,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 298,
     "timeWeek": 253,
     "timeMonth": 167,
     "timeYear": 192,
-    "dailyMinutesDown": {
-      "2026-02-24": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -48,20 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 309,
     "timeDay": 212,
     "timeWeek": 309,
     "timeMonth": 432,
     "timeYear": 313,
-    "dailyMinutesDown": {
-      "2026-04-08": 31,
-      "2026-02-27": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -87,59 +77,34 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazymarvin.com.ico",
     "slug": "crazy-marvin",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 252,
     "timeWeek": 333,
     "timeMonth": 340,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2026-01-20": 27,
-      "2025-10-02": 19,
-      "2025-08-09": 17,
-      "2025-08-08": 29,
-      "2025-07-21": 37,
-      "2025-07-20": 4,
-      "2025-06-30": 27,
-      "2025-04-30": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sneak.page",
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "72.78%",
-    "uptimeWeek": "81.10%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.29%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 199,
-    "timeWeek": 193,
+    "timeDay": 193,
+    "timeWeek": 192,
     "timeMonth": 209,
     "timeYear": 219,
-    "dailyMinutesDown": {
-      "2026-04-27": 234,
-      "2026-04-26": 298,
-      "2026-04-25": 251,
-      "2026-04-24": 182,
-      "2026-04-23": 268,
-      "2026-04-22": 288,
-      "2026-04-21": 308,
-      "2026-04-20": 185,
-      "2026-04-19": 476,
-      "2026-04-18": 206,
-      "2026-04-17": 235,
-      "2026-04-16": 198,
-      "2026-04-15": 272,
-      "2026-04-14": 254,
-      "2026-04-13": 88
-    }
+    "dailyMinutesDown": {}
   }
 ]
