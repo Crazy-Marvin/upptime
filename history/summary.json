@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 150,
-    "timeDay": 131,
-    "timeWeek": 119,
-    "timeMonth": 109,
+    "timeDay": 116,
+    "timeWeek": 111,
+    "timeMonth": 107,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2026-04-12": 18,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 270,
-    "timeWeek": 943,
-    "timeMonth": 339,
+    "timeDay": 232,
+    "timeWeek": 936,
+    "timeMonth": 340,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2026-02-24": 32
@@ -54,10 +54,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 329,
-    "timeWeek": 342,
-    "timeMonth": 449,
-    "timeYear": 315,
+    "timeDay": 210,
+    "timeWeek": 321,
+    "timeMonth": 440,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2026-04-08": 31,
       "2026-02-27": 18
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 360,
-    "timeDay": 385,
-    "timeWeek": 324,
-    "timeMonth": 343,
-    "timeYear": 374,
+    "timeDay": 305,
+    "timeWeek": 314,
+    "timeMonth": 340,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2026-01-20": 27,
       "2025-10-02": 19,
@@ -112,15 +112,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "65.76%",
-    "uptimeWeek": "73.96%",
-    "uptimeMonth": "89.42%",
+    "uptimeDay": "65.74%",
+    "uptimeWeek": "74.13%",
+    "uptimeMonth": "89.47%",
     "uptimeYear": "99.12%",
     "time": 219,
     "timeDay": 205,
-    "timeWeek": 204,
+    "timeWeek": 205,
     "timeMonth": 199,
     "timeYear": 219,
     "dailyMinutesDown": {
@@ -138,7 +138,7 @@
       "2026-04-21": 308,
       "2026-04-20": 185,
       "2026-04-19": 476,
-      "2026-04-18": 80
+      "2026-04-18": 61
     }
   }
 ]
