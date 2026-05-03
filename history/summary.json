@@ -114,17 +114,17 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "65.45%",
-    "uptimeWeek": "74.13%",
-    "uptimeMonth": "89.46%",
+    "uptimeDay": "65.76%",
+    "uptimeWeek": "74.29%",
+    "uptimeMonth": "89.42%",
     "uptimeYear": "99.12%",
     "time": 219,
     "timeDay": 210,
-    "timeWeek": 205,
-    "timeMonth": 199,
+    "timeWeek": 204,
+    "timeMonth": 198,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-05-02": 496,
+      "2026-05-02": 492,
       "2026-05-01": 249,
       "2026-04-30": 393,
       "2026-04-29": 276,
@@ -138,7 +138,7 @@
       "2026-04-21": 308,
       "2026-04-20": 185,
       "2026-04-19": 476,
-      "2026-04-18": 61
+      "2026-04-18": 80
     }
   }
 ]
