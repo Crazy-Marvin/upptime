@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 150,
-    "timeDay": 81,
-    "timeWeek": 101,
-    "timeMonth": 106,
+    "timeDay": 166,
+    "timeWeek": 114,
+    "timeMonth": 109,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2026-04-12": 18,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 172,
-    "timeWeek": 918,
-    "timeMonth": 337,
-    "timeYear": 203,
+    "timeDay": 284,
+    "timeWeek": 917,
+    "timeMonth": 344,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2026-02-24": 32
     }
@@ -54,8 +54,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 165,
-    "timeWeek": 314,
+    "timeDay": 386,
+    "timeWeek": 310,
     "timeMonth": 441,
     "timeYear": 314,
     "dailyMinutesDown": {
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 359,
-    "timeDay": 236,
-    "timeWeek": 311,
-    "timeMonth": 340,
-    "timeYear": 373,
+    "time": 360,
+    "timeDay": 814,
+    "timeWeek": 373,
+    "timeMonth": 353,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2026-01-20": 27,
       "2025-10-02": 19,
@@ -112,15 +112,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "72.42%",
-    "uptimeWeek": "77.99%",
-    "uptimeMonth": "89.23%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "75.22%",
+    "uptimeWeek": "79.88%",
+    "uptimeMonth": "89.33%",
+    "uptimeYear": "99.11%",
     "time": 219,
-    "timeDay": 216,
-    "timeWeek": 207,
+    "timeDay": 217,
+    "timeWeek": 204,
     "timeMonth": 197,
     "timeYear": 219,
     "dailyMinutesDown": {
@@ -139,7 +139,7 @@
       "2026-04-22": 288,
       "2026-04-21": 308,
       "2026-04-20": 185,
-      "2026-04-19": 183
+      "2026-04-19": 142
     }
   }
 ]
