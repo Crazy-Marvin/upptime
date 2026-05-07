@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 150,
-    "timeDay": 48,
-    "timeWeek": 114,
-    "timeMonth": 112,
+    "timeDay": 61,
+    "timeWeek": 112,
+    "timeMonth": 111,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2026-04-12": 18,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 71,
-    "timeWeek": 875,
-    "timeMonth": 344,
+    "timeDay": 208,
+    "timeWeek": 183,
+    "timeMonth": 348,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2026-02-24": 32
@@ -54,10 +54,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 391,
-    "timeWeek": 328,
-    "timeMonth": 441,
-    "timeYear": 315,
+    "timeDay": 143,
+    "timeWeek": 275,
+    "timeMonth": 432,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2026-04-08": 31,
       "2026-02-27": 18
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 360,
-    "timeDay": 366,
-    "timeWeek": 406,
-    "timeMonth": 355,
-    "timeYear": 375,
+    "timeDay": 186,
+    "timeWeek": 379,
+    "timeMonth": 347,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2026-01-20": 27,
       "2025-10-02": 19,
@@ -112,19 +112,19 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "70.83%",
-    "uptimeWeek": "77.03%",
-    "uptimeMonth": "89.01%",
-    "uptimeYear": "99.08%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "69.03%",
+    "uptimeWeek": "76.77%",
+    "uptimeMonth": "89.22%",
+    "uptimeYear": "99.10%",
     "time": 219,
-    "timeDay": 199,
-    "timeWeek": 204,
+    "timeDay": 210,
+    "timeWeek": 206,
     "timeMonth": 199,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2026-05-07": 417,
+      "2026-05-07": 443,
       "2026-05-06": 327,
       "2026-05-05": 340,
       "2026-05-04": 390,
@@ -138,7 +138,7 @@
       "2026-04-26": 298,
       "2026-04-25": 251,
       "2026-04-24": 182,
-      "2026-04-23": 214
+      "2026-04-23": 97
     }
   }
 ]
