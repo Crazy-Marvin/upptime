@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 150,
-    "timeDay": 61,
-    "timeWeek": 112,
+    "time": 149,
+    "timeDay": 89,
+    "timeWeek": 106,
     "timeMonth": 111,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 208,
-    "timeWeek": 183,
-    "timeMonth": 348,
-    "timeYear": 204,
+    "timeDay": 250,
+    "timeWeek": 180,
+    "timeMonth": 350,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2026-02-24": 32
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 312,
-    "timeDay": 143,
-    "timeWeek": 275,
-    "timeMonth": 342,
-    "timeYear": 314,
+    "time": 311,
+    "timeDay": 318,
+    "timeWeek": 273,
+    "timeMonth": 344,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2026-04-08": 31,
       "2026-02-27": 18
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 360,
-    "timeDay": 186,
-    "timeWeek": 379,
-    "timeMonth": 347,
+    "timeDay": 320,
+    "timeWeek": 369,
+    "timeMonth": 349,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2026-01-20": 27,
@@ -112,16 +112,16 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "82.83%",
-    "uptimeWeek": "76.81%",
-    "uptimeMonth": "89.29%",
+    "uptimeDay": "84.61%",
+    "uptimeWeek": "77.03%",
+    "uptimeMonth": "89.35%",
     "uptimeYear": "99.11%",
     "time": 219,
-    "timeDay": 156,
-    "timeWeek": 202,
-    "timeMonth": 198,
+    "timeDay": 135,
+    "timeWeek": 200,
+    "timeMonth": 197,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-05-08": 198,
@@ -137,8 +137,7 @@
       "2026-04-28": 159,
       "2026-04-27": 724,
       "2026-04-26": 298,
-      "2026-04-25": 251,
-      "2026-04-24": 26
+      "2026-04-25": 251
     }
   }
 ]
