@@ -112,12 +112,12 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "77.07%",
-    "uptimeWeek": "78.45%",
-    "uptimeMonth": "89.12%",
-    "uptimeYear": "99.09%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "78.48%",
+    "uptimeMonth": "89.16%",
+    "uptimeYear": "99.10%",
     "time": 218,
     "timeDay": 124,
     "timeWeek": 190,
@@ -138,7 +138,7 @@
       "2026-04-28": 159,
       "2026-04-27": 724,
       "2026-04-26": 298,
-      "2026-04-25": 115
+      "2026-04-25": 95
     }
   }
 ]
