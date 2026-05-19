@@ -11,7 +11,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 147,
-    "timeDay": 63,
+    "timeDay": 70,
     "timeWeek": 97,
     "timeMonth": 103,
     "timeYear": 144,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 217,
-    "timeWeek": 161,
-    "timeMonth": 369,
+    "timeDay": 111,
+    "timeWeek": 172,
+    "timeMonth": 371,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2026-02-24": 32
@@ -55,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 315,
-    "timeDay": 144,
-    "timeWeek": 431,
-    "timeMonth": 347,
-    "timeYear": 316,
+    "timeDay": 375,
+    "timeWeek": 427,
+    "timeMonth": 344,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2026-04-08": 31,
       "2026-02-27": 18
@@ -93,10 +93,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 359,
-    "timeDay": 237,
-    "timeWeek": 279,
-    "timeMonth": 334,
+    "time": 360,
+    "timeDay": 485,
+    "timeWeek": 299,
+    "timeMonth": 337,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2026-01-20": 27,
@@ -113,18 +113,19 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "76.88%",
-    "uptimeMonth": "88.39%",
-    "uptimeYear": "99.03%",
-    "time": 218,
-    "timeDay": 216,
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "77.53%",
+    "uptimeMonth": "88.49%",
+    "uptimeYear": "99.04%",
+    "time": 217,
+    "timeDay": 168,
     "timeWeek": 176,
     "timeMonth": 189,
     "timeYear": 217,
     "dailyMinutesDown": {
+      "2026-05-19": 0,
       "2026-05-18": 77,
       "2026-05-17": 355,
       "2026-05-16": 385,
@@ -141,7 +142,7 @@
       "2026-05-05": 340,
       "2026-05-04": 390,
       "2026-05-03": 101,
-      "2026-05-02": 63
+      "2026-05-02": 20
     }
   }
 ]
