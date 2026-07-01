@@ -13,7 +13,7 @@
     "time": 134,
     "timeDay": 56,
     "timeWeek": 75,
-    "timeMonth": 74,
+    "timeMonth": 75,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2025-08-05": 21,
@@ -38,7 +38,7 @@
     "time": 197,
     "timeDay": 37,
     "timeWeek": 258,
-    "timeMonth": 213,
+    "timeMonth": 211,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2026-02-24": 32
@@ -58,7 +58,7 @@
     "time": 312,
     "timeDay": 334,
     "timeWeek": 333,
-    "timeMonth": 299,
+    "timeMonth": 306,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2026-02-27": 18,
@@ -97,7 +97,7 @@
     "time": 359,
     "timeDay": 352,
     "timeWeek": 339,
-    "timeMonth": 304,
+    "timeMonth": 307,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2025-07-21": 37,
@@ -115,17 +115,17 @@
     "slug": "sneak-page",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "66.30%",
-    "uptimeWeek": "75.51%",
-    "uptimeMonth": "84.33%",
+    "uptimeDay": "68.26%",
+    "uptimeWeek": "75.64%",
+    "uptimeMonth": "84.30%",
     "uptimeYear": "98.69%",
     "time": 218,
-    "timeDay": 214,
+    "timeDay": 208,
     "timeWeek": 203,
-    "timeMonth": 214,
+    "timeMonth": 216,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2026-06-06": 30,
+      "2026-06-06": 56,
       "2026-06-07": 164,
       "2026-06-08": 384,
       "2026-06-09": 325,
@@ -149,7 +149,7 @@
       "2026-06-27": 400,
       "2026-06-28": 212,
       "2026-06-29": 431,
-      "2026-06-30": 470
+      "2026-06-30": 457
     }
   }
 ]
