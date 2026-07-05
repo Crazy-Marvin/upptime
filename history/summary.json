@@ -114,13 +114,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "89.58%",
-    "uptimeWeek": "80.87%",
-    "uptimeMonth": "84.38%",
-    "uptimeYear": "98.70%",
+    "uptime": "99.72%",
+    "uptimeDay": "77.96%",
+    "uptimeWeek": "78.67%",
+    "uptimeMonth": "83.87%",
+    "uptimeYear": "98.66%",
     "time": 218,
-    "timeDay": 239,
+    "timeDay": 218,
     "timeWeek": 199,
     "timeMonth": 220,
     "timeYear": 218,
@@ -151,7 +151,7 @@
       "2026-07-02": 212,
       "2026-07-03": 213,
       "2026-07-04": 157,
-      "2026-07-05": 0
+      "2026-07-05": 222
     }
   }
 ]
