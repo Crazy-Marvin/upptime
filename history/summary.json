@@ -90,7 +90,7 @@
     "slug": "crazy-marvin",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "93.27%",
+    "uptimeDay": "96.30%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
@@ -112,16 +112,16 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "69.62%",
-    "uptimeWeek": "79.61%",
-    "uptimeMonth": "79.63%",
-    "uptimeYear": "98.15%",
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "58.93%",
+    "uptimeWeek": "78.32%",
+    "uptimeMonth": "79.25%",
+    "uptimeYear": "98.11%",
     "time": 217,
-    "timeDay": 147,
-    "timeWeek": 189,
-    "timeMonth": 187,
+    "timeDay": 185,
+    "timeWeek": 195,
+    "timeMonth": 189,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2026-06-25": 39,
@@ -156,7 +156,7 @@
       "2026-07-25": 186,
       "2026-07-26": 413,
       "2026-07-27": 249,
-      "2026-07-28": 187
+      "2026-07-28": 385
     }
   }
 ]
