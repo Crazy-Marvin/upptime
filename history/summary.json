@@ -114,10 +114,10 @@
     "slug": "sneak-page",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "82.07%",
-    "uptimeWeek": "77.64%",
-    "uptimeMonth": "78.74%",
-    "uptimeYear": "98.06%",
+    "uptimeDay": "72.29%",
+    "uptimeWeek": "76.24%",
+    "uptimeMonth": "78.62%",
+    "uptimeYear": "98.03%",
     "time": 217,
     "timeDay": 144,
     "timeWeek": 207,
@@ -157,7 +157,7 @@
       "2026-07-28": 464,
       "2026-07-29": 372,
       "2026-07-30": 261,
-      "2026-07-31": 0
+      "2026-07-31": 141
     }
   }
 ]
