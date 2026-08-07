@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 133,
-    "timeDay": 61,
-    "timeWeek": 70,
-    "timeMonth": 82,
+    "timeDay": 0,
+    "timeWeek": 72,
+    "timeMonth": 81,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-12-14": 35,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 200,
-    "timeDay": 45,
-    "timeWeek": 98,
-    "timeMonth": 188,
-    "timeYear": 208,
+    "timeDay": 0,
+    "timeWeek": 79,
+    "timeMonth": 192,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2026-02-24": 32
     }
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 307,
-    "timeDay": 410,
-    "timeWeek": 209,
-    "timeMonth": 237,
+    "timeDay": 0,
+    "timeWeek": 233,
+    "timeMonth": 243,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2026-02-27": 18,
@@ -94,9 +94,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
     "time": 359,
-    "timeDay": 340,
-    "timeWeek": 253,
-    "timeMonth": 302,
+    "timeDay": 0,
+    "timeWeek": 262,
+    "timeMonth": 306,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2025-08-08": 29,
@@ -111,19 +111,18 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "67.10%",
-    "uptimeWeek": "69.56%",
-    "uptimeMonth": "76.06%",
+    "uptimeDay": "83.18%",
+    "uptimeWeek": "70.56%",
+    "uptimeMonth": "76.14%",
     "uptimeYear": "97.75%",
     "time": 217,
-    "timeDay": 210,
-    "timeWeek": 189,
+    "timeDay": 297,
+    "timeWeek": 190,
     "timeMonth": 188,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2026-06-30": 31,
       "2026-07-01": 245,
       "2026-07-02": 212,
       "2026-07-03": 213,
@@ -159,7 +158,8 @@
       "2026-08-03": 468,
       "2026-08-04": 611,
       "2026-08-05": 632,
-      "2026-08-06": 244
+      "2026-08-06": 244,
+      "2026-08-07": 0
     }
   }
 ]
