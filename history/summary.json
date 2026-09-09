@@ -87,16 +87,16 @@
     "url": "https://crazymarvin.com",
     "icon": "https://icons.duckduckgo.com/ip3/crazymarvin.com.ico",
     "slug": "crazy-marvin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.44%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "99.84%",
     "time": 352,
     "timeDay": 268,
     "timeWeek": 262,
-    "timeMonth": 265,
+    "timeMonth": 268,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-10-02": 19,
@@ -107,7 +107,8 @@
       "2026-08-20": 31,
       "2026-08-25": 46,
       "2026-08-28": 63,
-      "2026-08-27": 451
+      "2026-08-27": 451,
+      "2026-09-09": 0
     }
   },
   {
@@ -115,16 +116,16 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "57.65%",
-    "uptimeWeek": "88.07%",
-    "uptimeMonth": "84.85%",
-    "uptimeYear": "98.74%",
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "44.81%",
+    "uptimeWeek": "87.21%",
+    "uptimeMonth": "84.39%",
+    "uptimeYear": "98.70%",
     "time": 216,
-    "timeDay": 234,
-    "timeWeek": 226,
-    "timeMonth": 192,
+    "timeDay": 261,
+    "timeWeek": 225,
+    "timeMonth": 193,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2026-08-12": 146,
@@ -149,7 +150,7 @@
       "2026-09-06": 359,
       "2026-09-08": 356,
       "2026-09-07": 57,
-      "2026-09-09": 314
+      "2026-09-09": 518
     }
   }
 ]
