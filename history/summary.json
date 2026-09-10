@@ -33,15 +33,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 205,
     "timeDay": 291,
     "timeWeek": 179,
     "timeMonth": 209,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2026-02-24": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -116,19 +114,19 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "55.46%",
-    "uptimeWeek": "85.98%",
-    "uptimeMonth": "84.23%",
+    "uptimeDay": "77.20%",
+    "uptimeWeek": "85.97%",
+    "uptimeMonth": "84.32%",
     "uptimeYear": "98.69%",
     "time": 216,
-    "timeDay": 307,
+    "timeDay": 333,
     "timeWeek": 248,
-    "timeMonth": 196,
-    "timeYear": 216,
+    "timeMonth": 197,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2026-08-12": 91,
+      "2026-08-12": 52,
       "2026-08-13": 385,
       "2026-08-14": 231,
       "2026-08-15": 339,
@@ -150,7 +148,8 @@
       "2026-09-06": 359,
       "2026-09-08": 356,
       "2026-09-07": 57,
-      "2026-09-09": 642
+      "2026-09-09": 642,
+      "2026-09-10": 0
     }
   }
 ]
