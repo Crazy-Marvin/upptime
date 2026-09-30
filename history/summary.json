@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 131,
-    "timeDay": 75,
-    "timeWeek": 74,
-    "timeMonth": 90,
+    "timeDay": 108,
+    "timeWeek": 79,
+    "timeMonth": 91,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-12-14": 35,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 202,
-    "timeDay": 65,
-    "timeWeek": 128,
-    "timeMonth": 194,
-    "timeYear": 208,
+    "timeDay": 502,
+    "timeWeek": 155,
+    "timeMonth": 204,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2026-02-24": 32
     }
@@ -55,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 300,
-    "timeDay": 299,
-    "timeWeek": 272,
-    "timeMonth": 277,
-    "timeYear": 296,
+    "timeDay": 207,
+    "timeWeek": 260,
+    "timeMonth": 276,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2026-02-27": 18,
       "2026-04-08": 31
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.81%",
-    "time": 350,
-    "timeDay": 322,
-    "timeWeek": 291,
-    "timeMonth": 285,
-    "timeYear": 309,
+    "time": 351,
+    "timeDay": 268,
+    "timeWeek": 274,
+    "timeMonth": 282,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2025-10-02": 19,
       "2026-01-20": 27,
@@ -117,15 +117,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "72.15%",
-    "uptimeWeek": "82.33%",
-    "uptimeMonth": "82.78%",
-    "uptimeYear": "97.92%",
+    "uptime": "99.56%",
+    "uptimeDay": "27.61%",
+    "uptimeWeek": "79.62%",
+    "uptimeMonth": "81.78%",
+    "uptimeYear": "97.80%",
     "time": 215,
-    "timeDay": 220,
-    "timeWeek": 206,
-    "timeMonth": 212,
+    "timeDay": 232,
+    "timeWeek": 215,
+    "timeMonth": 213,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2026-08-16": 211,
@@ -162,7 +162,8 @@
       "2026-09-23": 790,
       "2026-09-25": 371,
       "2026-09-27": 42,
-      "2026-09-29": 401
+      "2026-09-29": 744,
+      "2026-09-30": 299
     }
   }
 ]
