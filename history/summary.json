@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 132,
-    "timeDay": 122,
-    "timeWeek": 100,
-    "timeMonth": 91,
+    "timeDay": 87,
+    "timeWeek": 101,
+    "timeMonth": 90,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-12-14": 35,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 199,
-    "timeDay": 190,
-    "timeWeek": 130,
-    "timeMonth": 168,
-    "timeYear": 206,
+    "timeDay": 317,
+    "timeWeek": 165,
+    "timeMonth": 171,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2026-02-24": 32
     }
@@ -55,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 299,
-    "timeDay": 288,
-    "timeWeek": 276,
-    "timeMonth": 263,
-    "timeYear": 294,
+    "timeDay": 215,
+    "timeWeek": 261,
+    "timeMonth": 262,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2026-02-27": 18,
       "2026-04-08": 31
@@ -94,9 +94,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.82%",
     "time": 350,
-    "timeDay": 250,
-    "timeWeek": 265,
-    "timeMonth": 279,
+    "timeDay": 196,
+    "timeWeek": 239,
+    "timeMonth": 276,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2026-01-20": 27,
@@ -115,19 +115,19 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "69.88%",
-    "uptimeWeek": "70.40%",
-    "uptimeMonth": "75.69%",
-    "uptimeYear": "97.13%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "69.85%",
+    "uptimeWeek": "72.67%",
+    "uptimeMonth": "76.36%",
+    "uptimeYear": "97.15%",
     "time": 216,
-    "timeDay": 412,
-    "timeWeek": 246,
+    "timeDay": 236,
+    "timeWeek": 261,
     "timeMonth": 217,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2026-08-17": 191,
+      "2026-08-17": 77,
       "2026-08-18": 353,
       "2026-08-19": 242,
       "2026-08-20": 554,
@@ -169,7 +169,8 @@
       "2026-10-05": 422,
       "2026-10-06": 93,
       "2026-10-07": 414,
-      "2026-10-08": 434
+      "2026-10-08": 434,
+      "2026-10-09": 0
     }
   }
 ]
