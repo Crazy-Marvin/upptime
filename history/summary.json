@@ -11,9 +11,9 @@
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.88%",
     "time": 131,
-    "timeDay": 77,
-    "timeWeek": 174,
-    "timeMonth": 115,
+    "timeDay": 84,
+    "timeWeek": 178,
+    "timeMonth": 116,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-12-14": 35,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 75,
-    "timeWeek": 182,
-    "timeMonth": 206,
+    "timeDay": 89,
+    "timeWeek": 192,
+    "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2026-02-24": 32
@@ -56,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 294,
-    "timeDay": 350,
-    "timeWeek": 283,
-    "timeMonth": 273,
-    "timeYear": 289,
+    "timeDay": 217,
+    "timeWeek": 252,
+    "timeMonth": 266,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2026-02-27": 18,
       "2026-04-08": 31
@@ -88,16 +88,16 @@
     "url": "https://crazymarvin.com",
     "icon": "https://icons.duckduckgo.com/ip3/crazymarvin.com.ico",
     "slug": "crazy-marvin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "89.85%",
     "uptimeMonth": "97.24%",
     "uptimeYear": "99.59%",
     "time": 302,
     "timeDay": 291,
-    "timeWeek": 216,
-    "timeMonth": 228,
+    "timeWeek": 217,
+    "timeMonth": 225,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2026-01-20": 27,
@@ -111,7 +111,8 @@
       "2026-09-09": 143,
       "2026-11-01": 187,
       "2026-11-18": 499,
-      "2026-11-19": 524
+      "2026-11-19": 524,
+      "2026-11-22": 0
     }
   },
   {
@@ -119,15 +120,15 @@
     "url": "https://sneak.page",
     "icon": "https://icons.duckduckgo.com/ip3/sneak.page.ico",
     "slug": "sneak-page",
-    "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "80.30%",
-    "uptimeMonth": "76.55%",
-    "uptimeYear": "95.01%",
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "87.42%",
+    "uptimeWeek": "78.51%",
+    "uptimeMonth": "76.14%",
+    "uptimeYear": "94.98%",
     "time": 220,
-    "timeDay": 208,
-    "timeWeek": 220,
+    "timeDay": 188,
+    "timeWeek": 228,
     "timeMonth": 229,
     "timeYear": 219,
     "dailyMinutesDown": {
@@ -199,7 +200,8 @@
       "2026-11-16": 726,
       "2026-11-18": 499,
       "2026-11-19": 523,
-      "2026-11-21": 0
+      "2026-11-22": 179,
+      "2026-11-21": 2
     }
   }
 ]
