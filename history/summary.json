@@ -88,17 +88,17 @@
     "url": "https://crazymarvin.com",
     "icon": "https://icons.duckduckgo.com/ip3/crazymarvin.com.ico",
     "slug": "crazy-marvin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "87.43%",
-    "uptimeWeek": "88.06%",
-    "uptimeMonth": "96.83%",
+    "uptimeDay": "85.52%",
+    "uptimeWeek": "87.78%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.55%",
-    "time": 302,
-    "timeDay": 0,
-    "timeWeek": 217,
-    "timeMonth": 225,
-    "timeYear": 295,
+    "time": 301,
+    "timeDay": 203,
+    "timeWeek": 216,
+    "timeMonth": 224,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2026-01-20": 27,
       "2026-07-27": 97,
@@ -112,7 +112,7 @@
       "2026-11-01": 187,
       "2026-11-18": 499,
       "2026-11-19": 524,
-      "2026-11-22": 181
+      "2026-11-22": 209
     }
   },
   {
